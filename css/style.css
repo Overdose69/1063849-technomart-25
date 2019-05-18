@@ -1,0 +1,69 @@
+.main-header-logo {
+	background-image: url(../img/header-logo2.png);
+}
+
+.container-header-up {
+	background-image: url(../img/header-logo.png);
+}
+.cart {
+	background-image: url(../img/icon-cart.svg);
+}
+.full{
+	background-image: url(../img/cart-full.png);
+}
+.tabs{
+	background-image: url(../img/icon-bookmark.svg);
+}
+.order {
+	background-image: url(../img/make-order-btn.png);
+}
+.phone{
+	background-image: url(../img/icon-phone.svg);
+}
+.login{
+	background-image: url(../img/icon-login.svg);
+}
+.navigation{
+	background-image: url(../img/navigation.png);
+}
+.logo {
+	background-image: url(../img/footer-logo.png);
+}
+.footer-up {
+	background-image: url(../img/footer-all.png);
+}
+.footer-down {
+	background-image: url(../img/footer-dark.png);
+}
+.vk {
+	background-image: url(../img/icon-vk.svg);
+}
+.fb {
+	background-image: url(../img/icon-fb.svg);
+}
+.instagram {
+	background-image: url(../img/icon-insta.svg);
+}
+.logined {
+	background-image: url(../img/icon-user.svg);
+}
+.exit{
+	background-image: url(../img/icon-logout.svg);
+}
+.home{
+	background-image: url(../img/icon-home.svg);
+	background-image: url(../img/icon-right.svg);
+}
+.marker{
+	background-image: url(../img/icon-right.svg);
+}
+.category {
+	background-image: url(../img/drill.png);
+}
+.action-img{
+	background-image: url(../img/buy-btn.png);
+	background-image: url(../img/bookmark-btn.png);
+}
+.new {
+	background-image: url(../img/new-flag.png);
+}
