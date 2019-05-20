@@ -9,11 +9,18 @@
 	<header class="main-header">
 		<div class="header-up">
 			<div class="container-header-up">
+				
 				<div class="logo">
-					<a class="main-header-logo">
+					<a class="main-header-logo" href="index.html">
 						<img src="img/logo.png" alt="Логотип техномарта">
 					</a>
 				</div>
+				<div class="search">
+						<form action="#" method="get" enctype="multipart/form-data">
+						<input type="search" name="search" id="search" placeholder="Поиск:">
+						<label class="search-label" for="search"></label>
+						</form>
+					</div>
 
 						<div class="search-order">
 							<a href="#" class="tabs">Закладки</a>
@@ -92,8 +99,26 @@
 				<h2>Контакты</h2>
 				<p>Вы можете забрать товар сами,</p>
 				<p>заехав в наш офис.</p>
-				<a href="#">Заблудились? Напишите нам!</a>
-		
+				<a class="write-us" href="#">Заблудились? Напишите нам!</a>
+		 <div class="write-us-form">
+              <button class="close" type="button"></button>
+              <form action="#" method="post">
+                  <label>
+                    <span>Ваше имя:</span><br>
+                    <input type="text" name="name" placeholder="Представьтесь, пожалуйста">
+                  </label>
+				  
+                  <label>
+                    <span>Ваш e-mail:</span><br>
+                    <input type="text" name="email" placeholder="email@example.com" >
+                  </label>
+                  <span>Текст письма:</span><br>
+                  <textarea name="text-mail" cols="60" rows="5" placeholder="В свободной форме"></textarea><br>
+             
+                  <button class="btn" type="submit">Отправить</button>
+                
+              </form>
+            </div>
 	</section>
 </div>
    </main>
